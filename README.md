@@ -10,7 +10,7 @@
 - git
 - npm
 
-# install
+# Installation
 - npm install distube@2.8.13
 - npm install discord.js
 - npm install @discordjs/voice
