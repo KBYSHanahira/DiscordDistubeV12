@@ -11,9 +11,9 @@
 - npm
 
 # install
-- npm i distube@2.8.13
+- npm install distube@2.8.13
 - npm install discord.js
 - npm install @discordjs/voice
 - npm install @discordjs/opus
-- npm i sodium  // or //  npm i libsodium-wrappers
-- npm i discord.js@12.5.3
+- npm install sodium  [ or ]  npm install libsodium-wrappers
+- npm install discord.js@12.5.3
